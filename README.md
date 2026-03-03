@@ -1,50 +1,51 @@
-# Hi, I'm Sholihuddin Rizky 👋
-
-Software Engineering Student (TC ’24) — ITS  
-Currently building my foundation in software development and system design.
+<h1 align="center">Hi, I'm Sholihuddin Rizky 👋</h1>
+<p align="center">
+  Software Engineering Enthusiast — TC '24<br>
+  Institut Teknologi Sepuluh Nopember
+</p>
 
 ---
 
 ## 🚀 About Me
-I’m an Informatics student focused on becoming a solid Software Engineer.  
-Currently strengthening my fundamentals in programming, problem solving, and backend systems.
-
-I believe in learning by building and improving step by step.
+I’m currently strengthening my fundamentals in software engineering, system design, and backend development.  
+Focused on building structured, maintainable, and scalable systems.
 
 ---
 
-## 🛠 Tech Stack (Learning & Exploring)
-- C++
-- Python
-- HTML, CSS, JavaScript
-- Git & Linux
-- Figma (UI/UX Design)
+## 🛠 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux"/>
+</p>
 
 ---
 
-## 📚 Current Focus
-- Data Structures & Algorithms
-- Backend fundamentals
-- Writing clean and maintainable code
-- Software Engineering principles (RPL)
+## 📚 Currently Learning
+- Data Structures & Algorithms  
+- Backend Development  
+- Clean Architecture Principles  
 
 ---
 
-## 🎯 2024–2025 Goals
-- Build real-world projects
-- Contribute to collaborative software
-- Secure a Software Engineering internship
+## 🎯 2024 Goals
+- Build 3 solid portfolio projects  
+- Contribute to collaborative software  
+- Secure a Software Engineering internship  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 - Email: msholihuddinrizky06@gmail.com
 
-## 💻 Tech Stack
+## 📊 GitHub Stats
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=sholihdinrizky&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sholihdinrizky&layout=compact&theme=tokyonight)
