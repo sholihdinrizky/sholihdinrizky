@@ -34,18 +34,7 @@ Focused on building structured, maintainable, and scalable systems.
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 - Build 3 solid portfolio projects  
 - Contribute to collaborative software  
 - Secure a Software Engineering internship  
-
----
-
-## 📫 Contact
-- Email: msholihuddinrizky06@gmail.com
-
-## 📊 GitHub Stats
-
-![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=sholihdinrizky&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sholihdinrizky&layout=compact&theme=tokyonight)
