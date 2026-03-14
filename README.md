@@ -20,9 +20,7 @@ Focused on building structured, maintainable, and scalable systems.
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
-<img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux"/>
 </p>
 
 ---
