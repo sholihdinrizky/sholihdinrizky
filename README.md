@@ -35,12 +35,10 @@ I am an Informatics Engineering student at Institut Teknologi Sepuluh Nopember (
 
 ## GitHub Statistics
 
-Replace `YOUR_USERNAME` in the URLs below with your actual GitHub username to activate the dynamic statistics.
-
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&locale=en)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&locale=en)
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=sholihdinrizky&show_icons=true&theme=dark&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sholihdinrizky&layout=compact&theme=dark&locale=en)
 
 ## Let's Connect
 
-* **LinkedIn:** [msholihuddinrizky](https://www.linkedin.com/in/msholihuddinrizky/)]
-* **Email:** [msholihuddinrizky06@gmail.com]
+* **LinkedIn:** ![msholihuddinrizky](https://www.linkedin.com/in/msholihuddinrizky/)
+* **Email:** msholihuddinrizky06@gmail.com
