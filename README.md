@@ -40,5 +40,5 @@ I am an Informatics Engineering student at Institut Teknologi Sepuluh Nopember (
 
 ## Let's Connect
 
-* **LinkedIn:** ![msholihuddinrizky](https://www.linkedin.com/in/msholihuddinrizky/)
+* **LinkedIn:** [msholihuddinrizky](https://www.linkedin.com/in/msholihuddinrizky/)
 * **Email:** msholihuddinrizky06@gmail.com
