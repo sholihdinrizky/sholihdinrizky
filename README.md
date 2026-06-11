@@ -1,44 +1,74 @@
+<!-- header -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=1D9E75&width=435&lines=informatics+engineering+%40+ITS+Surabaya;software+engineer+in+progress;building+things+that+actually+work." alt="Typing SVG" />
+</div>
+
 # Muhammad Sholihuddin Rizky
+`NRP 5025241171` · Informatics Engineering · Institut Teknologi Sepuluh Nopember
 
-Undergraduate Informatics Engineering Student | Software Engineering Enthusiast
+> Building software that's functional, adaptive, and grounded in real problems.  
+> Currently exploring the intersection of AI and software engineering.
 
-I am an Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS). My primary focus lies in software engineering, frontend development, UI/UX design, and multimedia production. I am highly motivated to build functional, adaptive, and scalable technology solutions that address real-world problems.
+---
 
-## About Me
+### // about
 
-* Currently advancing my academic and practical knowledge in software architecture and modern web development.
-* I have a strong interest in the intersection of artificial intelligence and software engineering, continuously exploring how intelligent systems can be integrated into practical applications.
-* Experienced in bridging the gap between design and development, translating complex system requirements into interactive prototypes, and executing them through clean and maintainable code.
-* Comfortable navigating technical workflows, ranging from frontend component adjustments to version control management using Git and GitHub.
+```
+role      →  undergraduate student · Informatics Engineering · ITS Surabaya
+focus     →  software architecture · frontend dev · UI/UX · competitive programming
+interests →  guitar · home fitness · digital privacy literacy · remote engineering
+goal      →  genuine skill independence in an AI-driven job market
+```
 
-## Technical Skills
+---
 
-### Programming and Scripting Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### // stack
 
-### Design and Multimedia Tools
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
+**languages**
 
-## Current Focus and Projects
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
-* **Frontend Development:** Actively contributing to collaborative projects such as the TC Knowledge Repo. My work involves utilizing HTML, CSS, and JavaScript to build accessible user interfaces and ensuring smooth deployment processes.
-* **UI/UX & Visual Design:** Specializing in wireframing and high-fidelity prototyping using Figma. I also utilize Canva to create structured and visually appealing digital assets for administrative and operational needs.
-* **Multimedia Production:** Editing and compiling video content effectively using CapCut to support project presentations and documentation.
-* **System and Logic Implementation:** Utilizing Bash scripting to automate routine tasks and streamline development workflows, alongside using C and C++ for foundational programming logic, data structures, and algorithm implementation.
+**tools**
 
-## GitHub Statistics
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=flat-square&logo=capcut&logoColor=white)
 
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=sholihdinrizky&show_icons=true&theme=dark&locale=en)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sholihdinrizky&layout=compact&theme=dark&locale=en)
+---
 
-## Let's Connect
+### // current work
 
-* **LinkedIn:** [msholihuddinrizky](https://www.linkedin.com/in/msholihuddinrizky/)
-* **Email:** msholihuddinrizky06@gmail.com
+| area | what i'm doing |
+|---|---|
+| `frontend` | contributing to TC Knowledge Repo — building accessible UIs and managing deployment |
+| `design` | wireframing + high-fidelity prototyping in Figma; Canva for operational assets |
+| `competitive programming` | solving SPOJ problems (bipartite DSU, Ternary Search + Kruskal, Digit DP) |
+| `systems` | bash scripting for workflow automation; C/C++ for DSA fundamentals |
+| `machine learning` | Q-Learning, ANN vs SVM comparisons, deep learning for aerial image analysis |
+
+---
+
+### // stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sholihdinrizky&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholihdinrizky&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" />
+</div>
+
+---
+
+### // connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-url-here)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email-here)
+
+---
+
+<sub>// sholihdinrizky · ITS Surabaya · 2024–present</sub>
