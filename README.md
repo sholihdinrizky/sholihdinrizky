@@ -1,8 +1,6 @@
-<!-- header -->
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=1D9E75&width=435&lines=informatics+engineering+%40+ITS+Surabaya;software+engineer+in+progress;building+things+that+actually+work." alt="Typing SVG" />
 </div>
-
 # Muhammad Sholihuddin Rizky
 Software and AI Enthusiast · Informatics Engineering · Institut Teknologi Sepuluh Nopember
 
