@@ -2,7 +2,7 @@
 
 Undergraduate Informatics Engineering Student | Software Engineering Enthusiast
 
-I am an Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS). My primary focus lies in software engineering, frontend development, and UI/UX design. I am highly motivated to build functional, adaptive, and scalable technology solutions that address real-world problems.
+I am an Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS). My primary focus lies in software engineering, frontend development, UI/UX design, and multimedia production. I am highly motivated to build functional, adaptive, and scalable technology solutions that address real-world problems.
 
 ## About Me
 
@@ -21,13 +21,16 @@ I am an Informatics Engineering student at Institut Teknologi Sepuluh Nopember (
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Design Tools
+### Design and Multimedia Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
 
 ## Current Focus and Projects
 
 * **Frontend Development:** Actively contributing to collaborative projects such as the TC Knowledge Repo. My work involves utilizing HTML, CSS, and JavaScript to build accessible user interfaces and ensuring smooth deployment processes.
-* **UI/UX Design:** With a background in structured design training, I specialize in wireframing, high-fidelity prototyping, and ensuring a user-centric approach before writing any code.
+* **UI/UX & Visual Design:** Specializing in wireframing and high-fidelity prototyping using Figma. I also utilize Canva to create structured and visually appealing digital assets for administrative and operational needs.
+* **Multimedia Production:** Editing and compiling video content effectively using CapCut to support project presentations and documentation.
 * **System and Logic Implementation:** Utilizing Bash scripting to automate routine tasks and streamline development workflows, alongside using C and C++ for foundational programming logic, data structures, and algorithm implementation.
 
 ## GitHub Statistics
@@ -39,5 +42,5 @@ Replace `YOUR_USERNAME` in the URLs below with your actual GitHub username to ac
 
 ## Let's Connect
 
-* **LinkedIn:** [Insert Your LinkedIn URL Here]
-* **Email:** [Insert Your Email Address Here]
+* **LinkedIn:** [msholihuddinrizky](https://www.linkedin.com/in/msholihuddinrizky/)]
+* **Email:** [msholihuddinrizky06@gmail.com]
