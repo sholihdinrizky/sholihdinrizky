@@ -4,7 +4,7 @@
 </div>
 
 # Muhammad Sholihuddin Rizky
-`NRP 5025241171` · Informatics Engineering · Institut Teknologi Sepuluh Nopember
+Software and AI Enthusiast · Informatics Engineering · Institut Teknologi Sepuluh Nopember
 
 > Building software that's functional, adaptive, and grounded in real problems.  
 > Currently exploring the intersection of AI and software engineering.
