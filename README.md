@@ -1,38 +1,43 @@
-<h1 align="center">Hi, I'm Sholihuddin Rizky 👋</h1>
-<p align="center">
-  Software Engineering Enthusiast — TC '24<br>
-  Institut Teknologi Sepuluh Nopember
-</p>
+# Muhammad Sholihuddin Rizky
 
----
+Undergraduate Informatics Engineering Student | Software Engineering Enthusiast
 
-## 🚀 About Me
-I’m currently strengthening my fundamentals in software engineering, system design, and backend development.  
-Focused on building structured, maintainable, and scalable systems.
+I am an Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS). My primary focus lies in software engineering, frontend development, and UI/UX design. I am highly motivated to build functional, adaptive, and scalable technology solutions that address real-world problems.
 
----
+## About Me
 
-## 🛠 Tech Stack
+* Currently advancing my academic and practical knowledge in software architecture and modern web development.
+* I have a strong interest in the intersection of artificial intelligence and software engineering, continuously exploring how intelligent systems can be integrated into practical applications.
+* Experienced in bridging the gap between design and development, translating complex system requirements into interactive prototypes, and executing them through clean and maintainable code.
+* Comfortable navigating technical workflows, ranging from frontend component adjustments to version control management using Git and GitHub.
 
-<p>
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-</p>
+## Technical Skills
 
----
+### Programming and Scripting Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 📚 Currently Learning
-- Data Structures & Algorithms  
-- Backend Development  
-- Clean Architecture Principles  
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
+## Current Focus and Projects
 
-## 🎯 2026 Goals
-- Build 3 solid portfolio projects  
-- Contribute to collaborative software  
-- Secure a Software Engineering internship  
+* **Frontend Development:** Actively contributing to collaborative projects such as the TC Knowledge Repo. My work involves utilizing HTML, CSS, and JavaScript to build accessible user interfaces and ensuring smooth deployment processes.
+* **UI/UX Design:** With a background in structured design training, I specialize in wireframing, high-fidelity prototyping, and ensuring a user-centric approach before writing any code.
+* **System and Logic Implementation:** Utilizing Bash scripting to automate routine tasks and streamline development workflows, alongside using C and C++ for foundational programming logic, data structures, and algorithm implementation.
+
+## GitHub Statistics
+
+Replace `YOUR_USERNAME` in the URLs below with your actual GitHub username to activate the dynamic statistics.
+
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&locale=en)
+
+## Let's Connect
+
+* **LinkedIn:** [Insert Your LinkedIn URL Here]
+* **Email:** [Insert Your Email Address Here]
