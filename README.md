@@ -9,7 +9,7 @@ Software and AI Enthusiast · Informatics Engineering · Institut Teknologi Sepu
 
 ---
 
-### // about
+### about
 
 ```
 role      →  undergraduate student · Informatics Engineering · ITS Surabaya
@@ -19,7 +19,7 @@ interests →  guitar · home fitness · digital privacy literacy
 
 ---
 
-### // stack
+### stack
 
 **languages**
 
@@ -40,7 +40,7 @@ interests →  guitar · home fitness · digital privacy literacy
 
 ---
 
-### // current work
+### current work
 
 | area | what i'm doing |
 |---|---|
@@ -52,7 +52,7 @@ interests →  guitar · home fitness · digital privacy literacy
 
 ---
 
-### // stats
+### stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sholihdinrizky&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9" />
@@ -61,11 +61,11 @@ interests →  guitar · home fitness · digital privacy literacy
 
 ---
 
-### // connect
+### connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-url-here)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email-here)
 
 ---
 
-<sub>// sholihdinrizky · ITS Surabaya · 2024–present</sub>
+<sub>sholihdinrizky · ITS Surabaya · 2024–present</sub>
