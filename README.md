@@ -13,9 +13,8 @@ Software and AI Enthusiast · Informatics Engineering · Institut Teknologi Sepu
 
 ```
 role      →  undergraduate student · Informatics Engineering · ITS Surabaya
-focus     →  software architecture · frontend dev · UI/UX · competitive programming
-interests →  guitar · home fitness · digital privacy literacy · remote engineering
-goal      →  genuine skill independence in an AI-driven job market
+focus     →  software architecture · frontend dev · UI/UX · full-stack dev
+interests →  guitar · home fitness · digital privacy literacy
 ```
 
 ---
