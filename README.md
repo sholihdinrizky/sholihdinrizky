@@ -1,33 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&width=500&lines=Hi,+I'm+Rizky;I+specialize+in+Vibe+Coding;Centering+divs+is+my+passion;print('Hello+World')+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&width=500&lines=Hi,+I'm+Rizky;I+specialize+in+Vibe+Coding;Centering+divs+is+my+passion;print('Hello+World')" alt="Typing SVG" />
 </div>
 
 # Welcome to my digital mess! 🐈
 
-I'm an Informatics Engineering student at ITS Surabaya. I practice a highly advanced development methodology called **"Vibe Coding"**—I just type things and hope the browser understands my feelings.
+I'm an Informatics Engineering student at ITS Surabaya. Currently surviving college on caffeine, sheer panic, and aggressive copy-pasting.
 
-### 🕵️‍♂️ The Honest Truth
-- 💻 I speak to computers. They only listen when I ask them to `print("Hello World")`, print my name, or calculate `1 + 1`. For anything else, we just aggressively stare at each other.
-- 🎓 Currently surviving college on caffeine and sheer panic.
-- 🎸 When I'm not fighting with my code, I'm playing guitar or lifting weights (to physically fight the bugs).
+### 🛠️ What I actually do here
 
-### 🧰 The "Tech Stack" (Loosely Defined)
+Let's be real. My actual superpowers are ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) and ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white). I can center a div without crying, and making things look pretty is my ultimate comfort zone.
 
-**The "I actually know what I'm doing" duo:**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-*(Yes, I am a proud Div-Centerer. Making things look pretty is my actual strength.)*
+Then there's ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black). My relationship with JS is mostly just typing `console.log("masuk sini ga?")` everywhere and praying to the tech gods that the browser understands my feelings.
 
-**The "I just vibe and hope it works" squad:**
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-*(My JS skills consist of `console.log("pls work")` and praying to the tech gods.)*
+I also have to deal with ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) and ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white), but I use them strictly to `print("Hello World")` and do basic math. Please don't ask me about pointers unless you want to see a human segmentation fault.
 
-**The "Please don't ask me about pointers" club:**
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  
-*(I use these strictly to print my name and do basic math. Anything beyond that is a segmentation fault waiting to happen.)*
-
-**The "Fancy Excel Spreadsheets" databases:**
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  
-*( `SELECT * FROM my_brain WHERE logic = 'found';` -> 0 rows returned. )*
+For databases, I use ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) and ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white). I mostly just treat them like fancy Excel spreadsheets where my queries casually return 0 rows anyway.
 
 ### 📉 Proof that I touch my keyboard
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sholihdinrizky&theme=tokyonight&hide_border=true)](https://github.com/sholihdinrizky)  
@@ -35,6 +22,3 @@ I'm an Informatics Engineering student at ITS Surabaya. I practice a highly adva
 
 ### 🍻 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Say_Hi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/msholihuddinrizky)
-
----
-*If my code works, it's a feature. If it crashes, it's an undocumented easter egg.*
