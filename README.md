@@ -7,10 +7,9 @@
 I'm an Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS) Surabaya. I build things, break things, and then spend 4 hours Googling how to fix them. 
 
 ### 🕵️‍♂️ About Me (The Honest Version)
-- 🎓 Currently surviving college (barely).
-- 💻 I speak to computers. Sometimes they listen, mostly they throw errors.
-- 🎸 When I'm not coding, I'm probably playing guitar or lifting weights (gotta stay fit to carry all these bugs).
-- 🤫 Secret talent: Writing SQL queries and pretending MySQL and PostgreSQL are completely different languages.
+- Currently surviving college (barely).
+- I speak to computers. Sometimes they listen, mostly they throw errors.
+- When I'm not coding, I'm probably playing guitar or lifting weights (gotta stay fit to carry all these bugs).
 
 ### 🧰 My "I Actually Know How to Use These" Stack
 
