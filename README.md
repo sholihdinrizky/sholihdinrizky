@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&width=500&lines=hi,+I'm+Rizky;a..,+fullstack+developer+hopefully;centering+divs+is+my+passion;print('Hello+World')" alt="Typing SVG" />
 
-<p>An Informatics Engineering student at ITS Surabaya. Currently surviving college on caffeine, sheer panic, and aggressive copy-pasting.</p>
+<p>An Informatics Engineering student at ITS Surabaya. Powered by caffeine, mild confusion, and Stack Overflow.</p>
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ### 🛠️ What I actually do here
 
-Let's be real. My actual superpowers are ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) and ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white). I can center a div without crying, and making things look pretty is my ultimate comfort zone.
+**Frontend:** I build UI using ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) and ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white). Writing raw CSS takes too much emotional maturity, so I just spam Tailwind classes in Vite and call it clean architecture.
 
-Then there's ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black). My relationship with JS is mostly just typing `console.log("yeepie")` everywhere and praying to the tech gods that the browser understands my feelings.
+**Logic:** Mostly ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black). 80% of my code is just `console.log()` to check if the function actually ran. The other 20% is wondering why it worked.
 
-I also have to deal with ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) and ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white), but I use them strictly to `print("Hello World")` and do basic math. Please don't ask me about pointers unless you want to see a human segmentation fault.
+**Low Level:** ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) and ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white). Used strictly for campus assignments. I don't touch pointers unless I'm looking for a memory leak on purpose.
 
-For databases, I use ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white). I mostly just treat like fancy Excel spreadsheets where my queries casually return 0 rows anyway.
+**Database:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) managed via **HeidiSQL**. Just a glorified Excel spreadsheet where `SELECT *` is my favorite query.
 
 ---
 
