@@ -16,8 +16,8 @@ I also have to deal with ![C](https://img.shields.io/badge/C-%2300599C.svg?style
 
 For databases, I use ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) and ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white). I mostly just treat them like fancy Excel spreadsheets where my queries casually return 0 rows anyway.
 
-### 📉 Proof that I touch my keyboard at down below
-*(If it's green, the vibe coding worked. If it's gray, the computer won.)*
+### 📉 Proof that I touch my keyboard (github contribute 👇)
+*(If the graph below is green, the vibe coding worked. If it's gray, the computer won.)*
 
 ### 🍻 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Say_Hi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/msholihuddinrizky)
