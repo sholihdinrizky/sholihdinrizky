@@ -18,7 +18,7 @@ Then there's ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg
 
 I also have to deal with ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) and ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white), but I use them strictly to `print("Hello World")` and do basic math. Please don't ask me about pointers unless you want to see a human segmentation fault.
 
-For databases, I use ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) managed via **HeidiSQL**. I mostly just treat them like fancy Excel spreadsheets where my queries casually return 0 rows anyway.
+For databases, I use ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white). I mostly just treat like fancy Excel spreadsheets where my queries casually return 0 rows anyway.
 
 ---
 
