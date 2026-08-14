@@ -1,8 +1,8 @@
+# Welcome to my digital mess! 🐈
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&width=500&lines=hi,+I'm+Rizky;a..,+fullstack+developer+hopefully;centering+divs+is+my+passion;print('Hello+World')" alt="Typing SVG" />
 </div>
-
-# Welcome to my digital mess! 🐈
 
 I'm an Informatics Engineering student at ITS Surabaya. Currently surviving college on caffeine, sheer panic, and aggressive copy-pasting.
 
@@ -17,7 +17,7 @@ I also have to deal with ![C](https://img.shields.io/badge/C-%2300599C.svg?style
 For databases, I use ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) and ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white). I mostly just treat them like fancy Excel spreadsheets where my queries casually return 0 rows anyway.
 
 ### 📉 Proof that I touch my keyboard
-![Snake animation](https://github.com/sholihdinrizky/sholihdinrizky/blob/output/github-contribution-grid-snake.svg)
+![](https://img.shields.io/badge/Status-Overthinking%20JS-7aa2f7?style=for-the-badge&logo=javascript)
 *(If it's green, the vibe coding worked. If it's gray, the computer won.)*
 
 ### 🍻 Let's Connect
