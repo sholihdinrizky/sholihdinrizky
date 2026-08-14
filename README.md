@@ -1,4 +1,6 @@
-# Welcome to my digital mess! 🐈
+<div align="center">
+  # Welcome to my digital mess! 🐈
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&width=500&lines=hi,+I'm+Rizky;a..,+fullstack+developer+hopefully;centering+divs+is+my+passion;print('Hello+World')" alt="Typing SVG" />
