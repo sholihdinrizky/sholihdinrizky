@@ -25,7 +25,7 @@ On the data side, I run ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2
 <div align="center">
 
 ### 📉 Proof that I touch my keyboard (github contribute 👇)
-*(If the graph below is green, the vibe coding worked. If it's gray, the computer won.)*
+*(If the graph below is green, the vibe coding worked. If it's black, the computer won.)*
 
 <br>
 
