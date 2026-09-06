@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ What I actually do here
+### What I actually do here 🛠️
 
 My journey into web dev started with standard ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) and ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white), but raw CSS quickly tested my mental stability. Naturally, I escaped to ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) combined with a superfast ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) setup. Now I just hoard 50 utility classes inside a single `<div>` tag and magically call it modern frontend engineering. I can center a div without a mental breakdown, and tweaking colors until the UI looks ridiculously expensive is my true comfort zone.
 
@@ -24,12 +24,12 @@ On the data side, I run ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2
 
 <div align="center">
 
-### 📉 Proof that I touch my keyboard (github contribute 👇)
+### Proof that I touch my keyboard (github contribute 👇📉)
 *(If the graph below is green, the vibe coding worked. If it's black, the computer won.)*
 
 <br>
 
-### 🍻 Let's Connect
+### Let's Connect 🍻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Say_Hi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/msholihuddinrizky)
 
 </div>
