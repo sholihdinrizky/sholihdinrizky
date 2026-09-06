@@ -1,6 +1,6 @@
 <div align="center">
 
-# welcome to my digital mess! 🐈
+# welcome to my digital issue! 🐈
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&width=500&lines=hi,+I'm+Rizky;a..,+fullstack+developer+hopefully;centering+divs+is+my+passion;print('Hello+World')" alt="Typing SVG" />
 
